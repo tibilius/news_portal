@@ -1,0 +1,16 @@
+{
+    "default" : {
+        "type": "database",
+        "adapter": "MySql",
+        "host": "localhost",
+        "login": "root",
+        "password": "jhbrbvfvf",
+        "database": "elist",
+        "encoding": "UTF-8"
+    },
+    
+    "file" : {
+        "type" : "File",
+        "adapter" : "File"
+    }    
+}

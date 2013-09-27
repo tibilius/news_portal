@@ -1,0 +1,8 @@
+{
+    "News": {
+        "meta": {
+            "source": "news",
+            "connection": "default"
+        }
+    }
+}
