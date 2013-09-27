@@ -3,9 +3,9 @@
         "type": "database",
         "adapter": "MySql",
         "host": "localhost",
-        "login": "root",
-        "password": "jhbrbvfvf",
-        "database": "elist",
+        "login": "news_login",
+        "password": "news_password",
+        "database": "news",
         "encoding": "UTF-8"
     },
     
