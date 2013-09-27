@@ -1,3 +1,5 @@
 .DS_Store
-app/libraries/*
+app/resources/files/*
+app/resources/tmp/logs/*
+app/resources/tmp/cache/templates/*
 .*.sw[op]

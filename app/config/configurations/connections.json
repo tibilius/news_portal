@@ -3,8 +3,8 @@
         "type": "database",
         "adapter": "MySql",
         "host": "localhost",
-        "login": "news_login",
-        "password": "news_password",
+        "login": "db_login",
+        "password": "db_pass",
         "database": "news",
         "encoding": "UTF-8"
     },

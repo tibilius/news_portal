@@ -10,7 +10,7 @@ class News extends \lithium\data\Model {
       static::meta('source', 'news');
       static::meta('key', 'title');
     }
+    
   }
- 
 
 }

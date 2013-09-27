@@ -16,7 +16,7 @@ class NewsController extends \lithium\action\Controller {
     $this->_dateFormat = "d M Y, H:i";
   }
 
-  public function index() {   
+  public function index() {       
     $news = News::find('all');
     $title = 'News list';
     return compact('news', 'title') + array (
